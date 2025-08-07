@@ -14,8 +14,7 @@ This is my personal portfolio website created using HTML, CSS. It highlights my 
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript (optional)
+- CSS
 
 ## 🌐 Live Website
 
